@@ -11,8 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/exah/vue-redux-mixin.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "mixin",
+    "redux",
+    "binding"
+  ],
+  "author": "John Grishin @exah",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/exah/vue-redux-mixin/issues"

@@ -1,4 +1,4 @@
-# vue-redux-mixin
+# vue-redux-mixin [experimental]
 
 For Vue.js 1.0.18+.
 
@@ -55,4 +55,5 @@ http://www.webpackbin.com/NJZza92Tx
 
 - [ ] Add options documentation
 - [ ] Add example project
+- [ ] Use deep freeze on state?
 - [ ] Figure out what needs to improve
