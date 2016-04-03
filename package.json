@@ -1,6 +1,6 @@
 {
   "name": "vue-redux-mixin",
-  "version": "0.0.1",
+  "version": "0.0.1-2",
   "description": "Super simple Vue.js + Redux binding mixin",
   "main": "dist/index.js",
   "scripts": {
